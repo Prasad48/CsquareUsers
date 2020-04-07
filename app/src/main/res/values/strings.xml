@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CsquareUsers</string>
+    <string name="Submit">LogIn</string>
+    <string name="offlinetext">No Internet connection</string>
+    <string name="retry">RETRY</string>
+    <string name="TotalUserscount">TotalUsersCount</string>
+</resources>
